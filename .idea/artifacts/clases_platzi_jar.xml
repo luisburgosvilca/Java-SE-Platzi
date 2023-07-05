@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="clases-platzi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/clases_platzi_jar</output-path>
+    <root id="archive" name="clases-platzi.jar">
+      <element id="module-output" name="clases-platzi" />
+    </root>
+  </artifact>
+</component>
